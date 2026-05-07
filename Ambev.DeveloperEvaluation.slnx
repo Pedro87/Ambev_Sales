@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ambev.DeveloperEvaluation.Application/Ambev.DeveloperEvaluation.Application.csproj" />
+    <Project Path="src/Ambev.DeveloperEvaluation.Domain/Ambev.DeveloperEvaluation.Domain.csproj" />
+    <Project Path="src/Ambev.DeveloperEvaluation.Infrastructure/Ambev.DeveloperEvaluation.Infrastructure.csproj" />
+    <Project Path="src/Ambev.DeveloperEvaluation.WebApi/Ambev.DeveloperEvaluation.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Ambev.DeveloperEvaluation.UnitTests/Ambev.DeveloperEvaluation.UnitTests.csproj" />
+  </Folder>
+</Solution>
